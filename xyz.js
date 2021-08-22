@@ -1,1 +1,1 @@
-// it was raining yesterday.
+// It was raining yesterday.
